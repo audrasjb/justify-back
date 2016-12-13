@@ -1,20 +1,20 @@
 <?php
 
 /**
- * @link              http://jeanbaptisteaudras.com/justify-back/
+ * @link              http://jeanbaptisteaudras.com/wstjb-bouton-justifier-texte-wordpress/
  * @since             1.0
- * @package           Who stole the text justify button ?!
+ * @package           Who Stole the Text Justify Button ?!
  *
  * @wordpress-plugin
- * Plugin Name:       Who stole the text justify button ?!
- * Plugin URI:        http://jeanbaptisteaudras.com/justify-back/
+ * Plugin Name:       Who Stole the Text Justify Button ?!
+ * Plugin URI:        http://jeanbaptisteaudras.com/wstjb-bouton-justifier-texte-wordpress/
  * Description:       Oh noes! WordPress 4.7 stole my text justify button! Please bring it back! (but let underline button dead, it sucks)
  * Version:           1.0
  * Author:            Jean-Baptiste Audras, project manager @ Whodunit
  * Author URI:        http://jeanbaptisteaudras.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       justify-back
+ * Text Domain:       wstjb
  * Domain Path:       /languages
  */
 
@@ -23,13 +23,13 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-class justifyBack {
+class WSTJB {
 	function __construct() {
 		if ( is_admin() ) {
-			add_action( 'init', array(  $this, 'setup_justifyBack' ) );
+			add_action( 'init', array(  $this, 'setup_WSTJB' ) );
 		}
 	}
-	function setup_justifyBack() {
+	function setup_WSTJB() {
 		// Check if the logged in WordPress User can edit Posts or Pages
 		// If not, don't register
 		if ( ! current_user_can( 'edit_posts' ) && ! current_user_can( 'edit_pages' ) ) {
@@ -40,11 +40,11 @@ class justifyBack {
 		if ( get_user_option( 'rich_editing' ) !== 'true' ) {
 			return;
 		}
-		function mce_justifyBack( $mce_buttons ) {	
+		function mce_WSTJB( $mce_buttons ) {	
 			$mce_buttons[] = 'alignjustify';
 			return $mce_buttons;
 		}	
-		add_filter( 'mce_buttons_2', 'mce_justifyBack', 5 );
+		add_filter( 'mce_buttons_2', 'mce_WSTJB', 5 );
 	}
 }
-$justifyBack = new justifyBack;
+$WSTJB = new WSTJB;
