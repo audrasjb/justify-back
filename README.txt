@@ -13,9 +13,9 @@ Oh noes! WordPress 4.7 stole my text justify button! Please bring it back (but k
 
 **WordPress 4.7 removed text justify from TinyMCE buttons. This plugin will bring it back.**
 
-Disclaimer: justifying is not a very good idea on websites, because it can be unreadable on small screens. According to typographic rules, you shouldn't justify text without good hyphenation and under 70 characters per line in average. So, be careful and don't use justified text in all case. I strongly recommend you to provide left alignment for small devices, using CSS media queries.
+**Disclaimer:** justifying is not a very good idea on websites, because it can be unreadable on small screens. According to typographic rules, you shouldn't justify text without good hyphenation and under 70 characters per line in average. So, be careful and don't use justified text in all case. I strongly recommend you to provide left alignment for small devices, using CSS media queries.
 
-Underline button was also removed, and we are not going to bring it back too because it clearly sucks. On the web, underlining text is clearly a bad idea because it should be reserved for links. If you want it back too check [Re-Add Underline and Justify](https://wordpress.org/plugins/re-add-underline-justify/ "Re-Add Underline and Justify") plugin.
+Underline button was also removed, and we are not going to bring it back too because it clearly sucks. On the web, underlining text is clearly a bad idea because it should be reserved for links. If you want it back too, check this plugin: [Re-Add Underline and Justify](https://wordpress.org/plugins/re-add-underline-justify/ "Re-Add Underline and Justify").
 
 **Credits**
 
