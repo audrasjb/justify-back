@@ -1,4 +1,4 @@
-=== Bring back text justify ===
+=== Bring back text justify button ! ===
 Contributors: audrasjb
 Tags: justify, justification, justifier, justification, tinymce, 4.7, text, alignment, alignement, button, text, texte, editor, wysiwyg, éditeur
 Requires at least: 4.7
@@ -13,10 +13,9 @@ Oh noes! WordPress 4.7 stole my text justify button! Please bring it back (but k
 
 **WordPress 4.7 removed text justify from TinyMCE buttons. This plugin will bring it back.**
 
-Justifying is not a very good idea on websites, because it can be unreadable on small screens. According to typographic rules, you shouldn't justify text without good hyphenation and under 70 characters per line in average. So, be careful and don't use justified text in all case. I strongly recommend you to provide left alignment for small devices, using CSS media queries.
+Disclaimer: justifying is not a very good idea on websites, because it can be unreadable on small screens. According to typographic rules, you shouldn't justify text without good hyphenation and under 70 characters per line in average. So, be careful and don't use justified text in all case. I strongly recommend you to provide left alignment for small devices, using CSS media queries.
 
-
-Underline button was also removed, and we are not going to bring it back too because it clearly sucks. On the web, underlining text is clearly a bad idea because it should be reserved for links.
+Underline button was also removed, and we are not going to bring it back too because it clearly sucks. On the web, underlining text is clearly a bad idea because it should be reserved for links. If you want it back too check [Re-Add Underline and Justify](https://wordpress.org/plugins/re-add-underline-justify/ "Re-Add Underline and Justify") plugin.
 
 **Credits**
 
@@ -27,13 +26,9 @@ Underline button was also removed, and we are not going to bring it back too bec
 English:
 1. Install the plugin and activate it. Text justify alignment button is back (in the second row of buttons)
 
-== Frequently Asked Questions ==
-
-= Why I cannot see any changes on my website front-end? =
-
 == Screenshots ==
 
-1. Hurray!
+1. Hurray! (oh and did you noticed the ABR button? It's an abbreviation button provided by my [Abbreviation button for tinymce](https://wordpress.org/plugins/abbreviation-button-for-tinymce/ "Abbreviation button for tinymce, WordPress repository") plugin)
 
 == Changelog ==
 
