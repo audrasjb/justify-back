@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Bring back text justify\n"
-"POT-Creation-Date: 2016-12-13 19:58+0100\n"
-"PO-Revision-Date: 2016-12-13 20:00+0100\n"
+"Project-Id-Version: Bring back text justify button !\n"
+"POT-Creation-Date: 2016-12-13 21:58+0100\n"
+"PO-Revision-Date: 2016-12-13 22:06+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fr_FR\n"
@@ -21,7 +21,7 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
 #. Plugin Name of the plugin/theme
-msgid "Bring back text justify"
+msgid "Bring back text justify button !"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
@@ -30,15 +30,15 @@ msgstr "http://jeanbaptisteaudras.com/justify-back/"
 
 #. Description of the plugin/theme
 msgid ""
-"Oh noes, WP4.7 stole my justify text button ! Please bring it back (but keep "
+"Oh noes! WP 4.7 stole my text justify button! Please bring it back (but keep "
 "underlining away, it sucks)"
 msgstr ""
-"Oh non, WP4.7 a volé mon bouton de justification de texte ! Rendez-le moi "
-"s’il vous plaît (mais gardez le bouton de soulignement, il craint)"
+"Oh non ! WP 4.7 a volé mon bouton de justification de texte ! Rendez-le "
+"moi ! (mais gardez le bouton de soulignement loin de moi, il craint)"
 
 #. Author of the plugin/theme
 msgid "Jean-Baptiste Audras, project manager @ Whodunit"
-msgstr "Jean-Baptiste Audras, chef de projet WordPress chez Whodunit"
+msgstr "Jean-Baptiste Audras, project manager @ Whodunit"
 
 #. Author URI of the plugin/theme
 msgid "http://jeanbaptisteaudras.com/"

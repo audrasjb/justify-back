@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:       Bring back text justify button !
  * Plugin URI:        http://jeanbaptisteaudras.com/justify-back/
- * Description:       Oh noes! WP 4.7 stole my text justify button! Please bring it back (but keep underlining away, it sucks)
+ * Description:       Oh noes! WP 4.7 stole my text justify button! Please bring it back!
  * Version:           1.0
  * Author:            Jean-Baptiste Audras, project manager @ Whodunit
  * Author URI:        http://jeanbaptisteaudras.com/
