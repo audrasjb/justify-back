@@ -19,7 +19,7 @@ To be honest, I do not *really* think removing this button was a bad idea, but s
 
 Underline button was also removed by WordPress 4.7, and we are not going to bring it back here because this button clearly sucks. On the web, underlining normal text is always a bad idea because it should be reserved for links. If you want it back too, check this plugin: [Re-Add Underline and Justify](https://wordpress.org/plugins/re-add-underline-justify/ "Re-Add Underline and Justify").
 
-**Credits** : [Jean-Baptiste Audras](http://jeanbaptisteaudras.com/ "Jean-Baptiste Audras"), project manager at [Whodunit](http://www.whodunit.fr/ "Whodunit Web Agency") and WordPress developer. @audrasjb on [Twitter](https://twitter.com/audrasjb "@audrasjb on Twitter") or [Github](https://github.com/audrasjb "@audrasjb on Github").
+**Credits** : [Jean-Baptiste Audras](http://jeanbaptisteaudras.com/ "Jean-Baptiste Audras"), project manager at [Whodunit](http://www.whodunit.fr/ "Whodunit WordPress Agency") and WordPress developer. @audrasjb on [Twitter](https://twitter.com/audrasjb "@audrasjb on Twitter") or [Github](https://github.com/audrasjb "@audrasjb on Github").
 
 == Installation ==
 
