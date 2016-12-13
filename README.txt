@@ -1,17 +1,22 @@
 === Bring back text justify ===
 Contributors: audrasjb
-Tags: justify, justification, justifier, tinymce, 4.7, text
+Tags: justify, justification, justifier, justification, tinymce, 4.7, text, alignment, alignement, button, text, texte, editor, wysiwyg, éditeur
 Requires at least: 4.7
 Tested up to: 4.7
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Oh noes, WP4.7 stole my justify text button ! Please bring it back (but keep underlining away, it sucks)
+Oh noes! WordPress 4.7 stole my text justify button! Please bring it back (but keep underline button away from me, it sucks!)
 
 == Description ==
 
-This plugin should be used to supply abbreviation support in the TinyMCE visual editor. Once activated, it provides an "ABR" button which allows editor to indicate the meaning of each abbreviation used in Pages, Posts or any custom post types used in your WordPress installation. The markup is fully compatible with accessibility rules like Web Content Accessibility Guidelines (WCAG). It uses `<abbr>…</abbr>` HTML markup instead of the deprecated `<acronym>…</acronym>` HTML markup.
+**WordPress 4.7 removed text justify from TinyMCE buttons. This plugin will bring it back.**
+
+Justifying is not a very good idea on websites, because it can be unreadable on small screens. According to typographic rules, you shouldn't justify text without good hyphenation and under 70 characters per line in average. So, be careful and don't use justified text in all case. I strongly recommend you to provide left alignment for small devices, using CSS media queries.
+
+
+Underline button was also removed, and we are not going to bring it back too because it clearly sucks. On the web, underlining text is clearly a bad idea because it should be reserved for links.
 
 **Credits**
 
