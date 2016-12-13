@@ -3,7 +3,7 @@
 /**
  * @link              http://jeanbaptisteaudras.com/justify-back/
  * @since             1.0
- * @package           Bring back text justify
+ * @package           Who stole the text justify button ?!
  *
  * @wordpress-plugin
  * Plugin Name:       Who stole the text justify button ?!
