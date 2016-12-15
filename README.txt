@@ -1,6 +1,6 @@
-=== Who stole the text justify button ?! ===
+=== Who Stole the Text Justify Button ?! ===
 Contributors: audrasjb
-Tags: justify, justification, justifier, tinymce, 4.7, text, alignment, alignement, button, bouton, text, editor, wysiwyg
+Tags: justify, justification, justifier, tinymce, 4.7, text, alignment, alignement, button, bouton, editor, wysiwyg
 Requires at least: 4.7
 Tested up to: 4.7
 Stable tag: 1.0
@@ -23,8 +23,7 @@ Underline button was also removed by WordPress 4.7, and we are not going to brin
 
 == Installation ==
 
-1. Install the plugin and activate it. Text justify alignment button is back now 
-(in the second row of buttons).
+1. Install WSTJB plugin and activate. Text justify alignment button is back (second row of buttons).
 
 == Screenshots ==
 
@@ -33,4 +32,4 @@ Underline button was also removed by WordPress 4.7, and we are not going to brin
 == Changelog ==
 
 = 1.0 =
-* Plugin initial commit. It works fine :)
+* Plugin initial commit. Works fine :)
