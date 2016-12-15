@@ -40,11 +40,13 @@ class WSTJB {
 		if ( get_user_option( 'rich_editing' ) !== 'true' ) {
 			return;
 		}
+		// Add text justify button
 		function mce_WSTJB( $mce_buttons ) {	
 			$mce_buttons[] = 'alignjustify';
 			return $mce_buttons;
 		}	
 		add_filter( 'mce_buttons_2', 'mce_WSTJB', 5 );
+		// Celebrate! =D
 	}
 }
 $WSTJB = new WSTJB;
